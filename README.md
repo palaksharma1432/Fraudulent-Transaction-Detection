@@ -107,5 +107,12 @@ These factors align with logical fraud patterns (e.g., large transfers/cash-outs
 4.  **Interactive Prediction:** At the end of the script execution, it will prompt the user to enter details for a new transaction to predict whether it is fraudulent or not. Follow the on-screen instructions.
 
 ## License
+ All Rights Reserved
 
-[Specify License Here - e.g., MIT License, Apache 2.0, etc. If none, state "All Rights Reserved"]
+## 📧 Contact
+
+For questions or suggestions, please contact:  
+Palak Sharma - 22cse079@gweca.ac.in <br>
+Project Link: https://github.com/palaksharma1432/CaseNext <br>
+linkedin: https://www.linkedin.com/in/palak-sharma-4799672b1/ <br>
+```
