@@ -113,6 +113,5 @@ These factors align with logical fraud patterns (e.g., large transfers/cash-outs
 
 For questions or suggestions, please contact:  
 Palak Sharma - 22cse079@gweca.ac.in <br>
-Project Link: https://github.com/palaksharma1432/CaseNext <br>
 linkedin: https://www.linkedin.com/in/palak-sharma-4799672b1/ <br>
 ```
